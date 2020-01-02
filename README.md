@@ -1,6 +1,6 @@
 # Beat Extraction
 
-The purpose of this program is to extract a text file which contains the location (timestamp) of the beats in a song file.
+The purpose of this program is to output a text file which contains the location (timestamp) of the beats in a song file.
 
 This text file can be used in the Beat Saber game (under development) by the Dev Club - IITD.
 
