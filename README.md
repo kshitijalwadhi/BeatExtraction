@@ -49,6 +49,6 @@ It has more options.
 
 Run this: 
 
-aubiotrack -i './song.mp3' -H 1024 -t 0.1 -s -100 > tempo.txt --onset hfc
+aubiotrack -i './song.mp3' -H 1024 -t 0.1 -s -100 --onset hfc > tempo.txt 
 
 aubiotrack --help  :for documentation.
